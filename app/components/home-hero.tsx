@@ -41,7 +41,7 @@ export default function HomeHero() {
                     stiffness: 300,
                     damping: 20,
                   }} className="md:pl-[3rem]">
-                  <h1 className="text-4xl md:text-8xl pt-[5rem] md:pt-[3rem] leading-[3.5rem] text-blue-500 text-center text-slate-100 font-extrabold">
+                  <h1 className="text-4xl md:text-8xl pt-[5rem] md:pt-[3rem] leading-[3.5rem] text-blue-500 text-center  font-extrabold">
                WE ARE EXPERT ELECTRICIANS
                   </h1>
                   <p className="text-xl md:text-2xl py-6  text-center text-blue-400 font-extrabold">
