@@ -19,7 +19,7 @@ export default function HomeHero() {
 
     <div className="relative h-screen">
 
-      <div className="relative h-[80vh] md:h-[90vh] w-full">
+      <div className="relative h-[80vh] md:h-[100vh] w-full">
 
         <div
           className="absolute dark:bg-white bg-black  dark:bg-dot-black/[0.2] bg-dot-white/[0.2] bottom-0 left-0 right-0 top-0 flex flex-col justify-center items-center gap-8"
@@ -41,10 +41,10 @@ export default function HomeHero() {
                     stiffness: 300,
                     damping: 20,
                   }} className="md:pl-[3rem]">
-                  <h1 className="text-4xl md:text-8xl pt-[5rem] md:pt-[3rem] leading-[3.5rem] text-center text-slate-100 font-extrabold">
+                  <h1 className="text-4xl md:text-8xl pt-[5rem] md:pt-[3rem] leading-[3.5rem] text-blue-500 text-center text-slate-100 font-extrabold">
                WE ARE EXPERT ELECTRICIANS
                   </h1>
-                  <p className="text-xl md:text-2xl py-6  text-center text-slate-200 font-extrabold">
+                  <p className="text-xl md:text-2xl py-6  text-center text-blue-400 font-extrabold">
                     We&apos;re Ready To Help, Give Us A Call Today!
                   </p>
                   <div className="flex flex-col justify-center mt-6 px-4 md:px-[24rem] ">
